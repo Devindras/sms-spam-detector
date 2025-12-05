@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/16S6mwq0HFI_-mSmt-BMRlD4SUsYrdXAg
 """
 
-!pip install streamlit lime gensim
+
 
 import streamlit as st
 import joblib
